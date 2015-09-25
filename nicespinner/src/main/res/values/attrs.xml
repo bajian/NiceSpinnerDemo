@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NiceSpinner">
+        <!--箭头颜色-->
+        <attr name="arrowTint" format="color" />
+        <!--是否隐藏箭头-->
+        <attr name="hideArrow" format="boolean" />
+    </declare-styleable>
+</resources>
